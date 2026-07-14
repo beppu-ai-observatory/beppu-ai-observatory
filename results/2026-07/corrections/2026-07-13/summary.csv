@@ -1,0 +1,315 @@
+region,category,official_name,engine,model_id,mention_count,total_score,status
+beppu,宿泊,杉乃井ホテル,anthropic,claude-sonnet-5,13,40,registered
+beppu,エリア,鉄輪温泉,anthropic,claude-sonnet-5,18,38,registered
+beppu,観光,別府地獄めぐり,anthropic,claude-sonnet-5,18,37,registered
+beppu,グルメ,海鮮いづつ,anthropic,claude-sonnet-5,10,24,registered
+beppu,観光,海地獄,anthropic,claude-sonnet-5,12,22,registered
+beppu,エリア,別府温泉(市街地),anthropic,claude-sonnet-5,9,21,registered
+beppu,グルメ,東洋軒,anthropic,claude-sonnet-5,7,19,registered
+beppu,宿泊,亀の井ホテル 別府,anthropic,claude-sonnet-5,9,17,registered
+beppu,観光,血の池地獄,anthropic,claude-sonnet-5,10,17,registered
+beppu,宿泊,AMANE RESORT SEIKAI,anthropic,claude-sonnet-5,5,13,registered
+beppu,グルメ,とよ常,anthropic,claude-sonnet-5,5,13,registered
+beppu,グルメ,地獄蒸し工房 鉄輪,anthropic,claude-sonnet-5,6,13,registered
+beppu,宿泊,ホテルアーサー KITAHAMA BASE,anthropic,claude-sonnet-5,5,12,registered
+beppu,宿泊,匠晴の宿 心庵,anthropic,claude-sonnet-5,4,12,registered
+beppu,観光,鬼山地獄,anthropic,claude-sonnet-5,8,12,registered
+beppu,宿泊,スーパーホテル別府駅前,anthropic,claude-sonnet-5,5,11,registered
+beppu,グルメ,六盛,anthropic,claude-sonnet-5,6,10,registered
+beppu,観光,鬼石坊主地獄,anthropic,claude-sonnet-5,7,10,registered
+beppu,観光,龍巻地獄,anthropic,claude-sonnet-5,7,10,registered
+beppu,宿泊,アマネク別府ゆらり,anthropic,claude-sonnet-5,3,9,registered
+beppu,グルメ,グリルみつば,anthropic,claude-sonnet-5,5,9,registered
+beppu,グルメ,元祖アリラン,anthropic,claude-sonnet-5,3,9,registered
+beppu,観光,竹瓦温泉,anthropic,claude-sonnet-5,5,9,registered
+beppu,宿泊,おにやまホテル,anthropic,claude-sonnet-5,4,8,registered
+beppu,観光,かまど地獄,anthropic,claude-sonnet-5,5,7,registered
+beppu,宿泊,大江戸温泉物語 別府清風,anthropic,claude-sonnet-5,4,7,registered
+beppu,観光,白池地獄,anthropic,claude-sonnet-5,5,7,registered
+beppu,エリア,明礬温泉,anthropic,claude-sonnet-5,4,6,registered
+beppu,グルメ,湯治の宿 大黒屋,anthropic,claude-sonnet-5,3,6,unregistered
+beppu,グルメ,胡月,anthropic,claude-sonnet-5,4,6,registered
+beppu,グルメ,YOUMECA別府店,anthropic,claude-sonnet-5,2,5,unregistered
+beppu,宿泊,ホテル フジヨシ,anthropic,claude-sonnet-5,4,5,registered
+beppu,観光,別府ロープウェイ,anthropic,claude-sonnet-5,3,5,registered
+beppu,宿泊,SEKIYA RESORT 別邸はる樹,anthropic,claude-sonnet-5,2,4,registered
+beppu,グルメ,まやかしや,anthropic,claude-sonnet-5,2,4,unregistered
+beppu,グルメ,一休の泪,anthropic,claude-sonnet-5,2,4,registered
+beppu,グルメ,亀正くるくる寿司,anthropic,claude-sonnet-5,3,4,registered
+beppu,宿泊,別府ステーションホテル,anthropic,claude-sonnet-5,2,4,registered
+beppu,観光,別府タワー,anthropic,claude-sonnet-5,2,4,registered
+beppu,観光,湯けむり展望台,anthropic,claude-sonnet-5,2,4,registered
+beppu,エリア,観海寺温泉,anthropic,claude-sonnet-5,2,4,registered
+beppu,グルメ,そむり,anthropic,claude-sonnet-5,3,3,registered
+beppu,宿泊,みゆき屋,anthropic,claude-sonnet-5,1,3,unregistered
+beppu,グルメ,ろばた仁,anthropic,claude-sonnet-5,1,3,registered
+beppu,グルメ,喫茶ムムム,anthropic,claude-sonnet-5,1,3,unregistered
+beppu,グルメ,地獄蒸し料理,anthropic,claude-sonnet-5,1,3,unregistered
+beppu,宿泊,山田別荘,anthropic,claude-sonnet-5,2,3,registered
+beppu,宿泊,徳の宿 ふぶ庵,anthropic,claude-sonnet-5,2,3,registered
+beppu,エリア,柴石温泉,anthropic,claude-sonnet-5,2,3,registered
+beppu,グルメ,縁がわ,anthropic,claude-sonnet-5,1,3,unregistered
+beppu,観光,高崎山自然動物園,anthropic,claude-sonnet-5,2,3,registered
+beppu,宿泊,AMANE RESORT GAHAMA,anthropic,claude-sonnet-5,1,2,registered
+beppu,グルメ,ここちカフェ むすびの,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,宿泊,べっぷ昭和園,anthropic,claude-sonnet-5,1,2,registered
+beppu,観光,みょうばん湯の里,anthropic,claude-sonnet-5,1,2,registered
+beppu,グルメ,れん,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,宿泊,ホテル山水館,anthropic,claude-sonnet-5,2,2,registered
+beppu,宿泊,別府八湯 御宿 野乃別府,anthropic,claude-sonnet-5,1,2,registered
+beppu,宿泊,別府旅宿 最乃幸,anthropic,claude-sonnet-5,1,2,registered
+beppu,エリア,堀田温泉,anthropic,claude-sonnet-5,1,2,registered
+beppu,観光,大分マリーンパレス水族館 うみたまご,anthropic,claude-sonnet-5,1,2,registered
+beppu,宿泊,岡本屋旅館,anthropic,claude-sonnet-5,2,2,registered
+beppu,宿泊,昭和レトロな温泉宿,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,グルメ,海鮮いっき,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,グルメ,潮彩屋,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,グルメ,焼肉 一力,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,宿泊,神和苑,anthropic,claude-sonnet-5,1,2,registered
+beppu,宿泊,竹と椿のお宿 花べっぷ,anthropic,claude-sonnet-5,2,2,registered
+beppu,宿泊,美湯の宿 両築別邸,anthropic,claude-sonnet-5,1,2,registered
+beppu,グルメ,荘園小町,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,宿泊,野上本館,anthropic,claude-sonnet-5,1,2,registered
+beppu,グルメ,陽なたや,anthropic,claude-sonnet-5,1,2,unregistered
+beppu,宿泊,ANAインターコンチネンタル別府リゾート&スパ,anthropic,claude-sonnet-5,1,1,registered
+beppu,宿泊,ベップロジウラ,anthropic,claude-sonnet-5,1,1,unregistered
+beppu,宿泊,ホテルニューツルタ,anthropic,claude-sonnet-5,1,1,registered
+beppu,宿泊,ホテルリゾーピア別府,anthropic,claude-sonnet-5,1,1,unregistered
+beppu,宿泊,ホテル白菊,anthropic,claude-sonnet-5,1,1,registered
+beppu,グルメ,九丁目の八ちょう目,anthropic,claude-sonnet-5,1,1,unregistered
+beppu,グルメ,元町バル,anthropic,claude-sonnet-5,1,1,unregistered
+beppu,グルメ,別府冷麺,anthropic,claude-sonnet-5,1,1,unregistered
+beppu,宿泊,別府駅前 ホテルシーウェーブ別府,anthropic,claude-sonnet-5,1,1,registered
+beppu,観光,志高湖,anthropic,claude-sonnet-5,1,1,registered
+beppu,エリア,鉄輪温泉,google,gemini-3.5-flash,26,49,registered
+beppu,エリア,別府温泉(市街地),google,gemini-3.5-flash,18,39,registered
+beppu,宿泊,AMANE RESORT SEIKAI,google,gemini-3.5-flash,12,35,registered
+beppu,観光,別府地獄めぐり,google,gemini-3.5-flash,14,30,registered
+beppu,宿泊,杉乃井ホテル,google,gemini-3.5-flash,10,26,registered
+beppu,グルメ,東洋軒,google,gemini-3.5-flash,10,25,registered
+beppu,グルメ,地獄蒸し工房 鉄輪,google,gemini-3.5-flash,11,21,registered
+beppu,グルメ,とよ常,google,gemini-3.5-flash,9,18,registered
+beppu,グルメ,六盛,google,gemini-3.5-flash,9,16,registered
+beppu,観光,海地獄,google,gemini-3.5-flash,10,16,registered
+beppu,宿泊,ANAインターコンチネンタル別府リゾート&スパ,google,gemini-3.5-flash,8,13,registered
+beppu,宿泊,亀の井ホテル 別府,google,gemini-3.5-flash,8,13,registered
+beppu,宿泊,神和苑,google,gemini-3.5-flash,6,13,registered
+beppu,エリア,明礬温泉,google,gemini-3.5-flash,7,12,registered
+beppu,グルメ,海鮮いづつ,google,gemini-3.5-flash,6,12,registered
+beppu,観光,血の池地獄,google,gemini-3.5-flash,8,12,registered
+beppu,宿泊,別府八湯 御宿 野乃別府,google,gemini-3.5-flash,4,11,registered
+beppu,観光,かまど地獄,google,gemini-3.5-flash,6,9,registered
+beppu,宿泊,アマネク別府ゆらり,google,gemini-3.5-flash,5,9,registered
+beppu,グルメ,亀正くるくる寿司,google,gemini-3.5-flash,4,9,registered
+beppu,観光,竹瓦温泉,google,gemini-3.5-flash,5,9,registered
+beppu,グルメ,胡月,google,gemini-3.5-flash,4,9,registered
+beppu,グルメ,チョロ松,google,gemini-3.5-flash,3,8,unregistered
+beppu,エリア,観海寺温泉,google,gemini-3.5-flash,4,8,registered
+beppu,宿泊,野上本館,google,gemini-3.5-flash,3,7,registered
+beppu,観光,鬼山地獄,google,gemini-3.5-flash,5,7,registered
+beppu,観光,鬼石坊主地獄,google,gemini-3.5-flash,5,7,registered
+beppu,グルメ,ここちカフェ むすびの,google,gemini-3.5-flash,3,6,unregistered
+beppu,観光,ひょうたん温泉,google,gemini-3.5-flash,3,6,registered
+beppu,観光,みょうばん湯の里,google,gemini-3.5-flash,3,6,registered
+beppu,グルメ,グリルみつば,google,gemini-3.5-flash,3,6,registered
+beppu,観光,別府ロープウェイ,google,gemini-3.5-flash,3,6,registered
+beppu,宿泊,山田別荘,google,gemini-3.5-flash,3,6,registered
+beppu,グルメ,岡本屋売店,google,gemini-3.5-flash,3,6,registered
+beppu,エリア,柴石温泉,google,gemini-3.5-flash,5,6,registered
+beppu,宿泊,湯治柳屋,google,gemini-3.5-flash,3,6,registered
+beppu,出典,湯煙食堂,google,gemini-3.5-flash,2,6,unregistered
+beppu,グルメ,YOUMECA別府店,google,gemini-3.5-flash,2,5,unregistered
+beppu,宿泊,アマネクイン別府,google,gemini-3.5-flash,2,5,registered
+beppu,グルメ,元祖アリラン,google,gemini-3.5-flash,3,5,registered
+beppu,観光,地獄温泉ミュージアム,google,gemini-3.5-flash,2,5,unregistered
+beppu,宿泊,AMANE RESORT GAHAMA,google,gemini-3.5-flash,3,4,registered
+beppu,グルメ,ろばた仁,google,gemini-3.5-flash,2,4,registered
+beppu,出典,メンコロキッチン 別府店,google,gemini-3.5-flash,2,4,unregistered
+beppu,グルメ,甘味茶屋,google,gemini-3.5-flash,3,4,registered
+beppu,宿泊,美湯の宿 両築別邸,google,gemini-3.5-flash,2,4,registered
+beppu,グルメ,cocolate,google,gemini-3.5-flash,1,3,unregistered
+beppu,グルメ,cocolate別府本店,google,gemini-3.5-flash,1,3,unregistered
+beppu,宿泊,レトロな木造洋館でぬくもりに癒される,google,gemini-3.5-flash,1,3,unregistered
+beppu,エリア,亀川温泉,google,gemini-3.5-flash,2,3,registered
+beppu,宿泊,別府ステーションホテル,google,gemini-3.5-flash,2,3,registered
+beppu,宿泊,別府駅前 ホテルシーウェーブ別府,google,gemini-3.5-flash,2,3,registered
+beppu,観光,大分マリーンパレス水族館 うみたまご,google,gemini-3.5-flash,1,3,registered
+beppu,グルメ,大衆居酒屋 生一本本店,google,gemini-3.5-flash,1,3,unregistered
+beppu,宿泊,歴史とレトロ情緒に浸る隠れ家,google,gemini-3.5-flash,1,3,unregistered
+beppu,観光,白池地獄,google,gemini-3.5-flash,2,3,registered
+beppu,宿泊,竹と椿のお宿 花べっぷ,google,gemini-3.5-flash,2,3,registered
+beppu,出典,10 COFFEE BREWERS別府駅高架下店,google,gemini-3.5-flash,1,2,unregistered
+beppu,グルメ,そむり,google,gemini-3.5-flash,2,2,registered
+beppu,宿泊,オールインクルーシブで極上のご褒美リトリート,google,gemini-3.5-flash,1,2,unregistered
+beppu,グルメ,一休の泪,google,gemini-3.5-flash,1,2,registered
+beppu,グルメ,九丁目の八ちょう目,google,gemini-3.5-flash,1,2,unregistered
+beppu,観光,別府タワー,google,gemini-3.5-flash,1,2,registered
+beppu,グルメ,友永パン,google,gemini-3.5-flash,1,2,registered
+beppu,宿泊,地獄蒸し」を体験する,google,gemini-3.5-flash,1,2,unregistered
+beppu,宿泊,大江戸温泉物語Premium ホテル風月,google,gemini-3.5-flash,1,2,registered
+beppu,グルメ,大衆居酒屋 生一本 本店,google,gemini-3.5-flash,1,2,unregistered
+beppu,宿泊,岡本屋旅館,google,gemini-3.5-flash,2,2,registered
+beppu,グルメ,民芸茶屋 味蔵,google,gemini-3.5-flash,1,2,unregistered
+beppu,観光,湯けむり展望台,google,gemini-3.5-flash,1,2,registered
+beppu,観光,龍巻地獄,google,gemini-3.5-flash,2,2,registered
+beppu,宿泊,ジェイホッパーズ別府ゲストハウス,google,gemini-3.5-flash,1,1,unregistered
+beppu,宿泊,スーパーホテル別府駅前,google,gemini-3.5-flash,1,1,registered
+beppu,出典,別府みなと市場,google,gemini-3.5-flash,1,1,unregistered
+beppu,宿泊,割烹旅館 かんな和 別邸,google,gemini-3.5-flash,1,1,unregistered
+beppu,出典,割烹旅館 かんな和 別邸,google,gemini-3.5-flash,1,1,unregistered
+beppu,宿泊,匠晴の宿 心庵,google,gemini-3.5-flash,1,1,registered
+beppu,グルメ,大陸ラーメン,google,gemini-3.5-flash,1,1,registered
+beppu,エリア,別府温泉(市街地),openai,gpt-5.6-terra,24,45,registered
+beppu,エリア,鉄輪温泉,openai,gpt-5.6-terra,17,37,registered
+beppu,観光,別府地獄めぐり,openai,gpt-5.6-terra,14,30,registered
+beppu,宿泊,杉乃井ホテル,openai,gpt-5.6-terra,10,27,registered
+beppu,宿泊,AMANE RESORT SEIKAI,openai,gpt-5.6-terra,9,26,registered
+beppu,グルメ,東洋軒,openai,gpt-5.6-terra,9,26,registered
+beppu,グルメ,地獄蒸し工房 鉄輪,openai,gpt-5.6-terra,9,19,registered
+beppu,観光,海地獄,openai,gpt-5.6-terra,11,19,registered
+beppu,観光,血の池地獄,openai,gpt-5.6-terra,10,15,registered
+beppu,グルメ,グリルみつば,openai,gpt-5.6-terra,7,13,registered
+beppu,宿泊,亀の井ホテル 別府,openai,gpt-5.6-terra,6,13,registered
+beppu,グルメ,胡月,openai,gpt-5.6-terra,6,13,registered
+beppu,グルメ,六盛,openai,gpt-5.6-terra,6,12,registered
+beppu,宿泊,界 別府,openai,gpt-5.6-terra,5,12,registered
+beppu,エリア,観海寺温泉,openai,gpt-5.6-terra,7,12,registered
+beppu,宿泊,別府駅前 ホテルシーウェーブ別府,openai,gpt-5.6-terra,5,11,registered
+beppu,観光,龍巻地獄,openai,gpt-5.6-terra,7,10,registered
+beppu,観光,かまど地獄,openai,gpt-5.6-terra,6,9,registered
+beppu,グルメ,とよ常,openai,gpt-5.6-terra,5,9,registered
+beppu,エリア,明礬温泉,openai,gpt-5.6-terra,6,9,registered
+beppu,グルメ,大衆居酒屋 生一本本店,openai,gpt-5.6-terra,3,8,unregistered
+beppu,観光,鬼石坊主地獄,openai,gpt-5.6-terra,4,7,registered
+beppu,宿泊,アマネク別府ゆらり,openai,gpt-5.6-terra,2,6,registered
+beppu,宿泊,別府旅宿 最乃幸,openai,gpt-5.6-terra,3,6,registered
+beppu,エリア,堀田温泉,openai,gpt-5.6-terra,3,6,registered
+beppu,グルメ,海鮮いづつ,openai,gpt-5.6-terra,2,6,registered
+beppu,観光,竹瓦温泉,openai,gpt-5.6-terra,4,6,registered
+beppu,宿泊,ANAインターコンチネンタル別府リゾート&スパ,openai,gpt-5.6-terra,3,5,registered
+beppu,宿泊,別府豊泉荘,openai,gpt-5.6-terra,2,5,registered
+beppu,観光,大分香りの博物館,openai,gpt-5.6-terra,2,5,unregistered
+beppu,グルメ,季寄 新鮨し,openai,gpt-5.6-terra,2,5,unregistered
+beppu,観光,白池地獄,openai,gpt-5.6-terra,3,5,registered
+beppu,観光,鬼山地獄,openai,gpt-5.6-terra,3,5,registered
+beppu,グルメ,いけす割烹 平家,openai,gpt-5.6-terra,2,4,unregistered
+beppu,宿泊,おにやまホテル,openai,gpt-5.6-terra,2,4,registered
+beppu,グルメ,ここちカフェ むすびの,openai,gpt-5.6-terra,2,4,unregistered
+beppu,宿泊,ホテルアーサー KITAHAMA BASE,openai,gpt-5.6-terra,4,4,registered
+beppu,グルメ,一休の泪,openai,gpt-5.6-terra,2,4,registered
+beppu,観光,別府ロープウェイ,openai,gpt-5.6-terra,2,4,registered
+beppu,グルメ,大黒屋,openai,gpt-5.6-terra,2,4,unregistered
+beppu,宿泊,旅館 入舟荘,openai,gpt-5.6-terra,2,4,registered
+beppu,観光,湯けむり展望台,openai,gpt-5.6-terra,2,4,registered
+beppu,宿泊,神和苑,openai,gpt-5.6-terra,2,4,registered
+beppu,グルメ,COCOLATE別府本店,openai,gpt-5.6-terra,1,3,unregistered
+beppu,グルメ,YOUMECA,openai,gpt-5.6-terra,1,3,unregistered
+beppu,グルメ,tsuchiumu,openai,gpt-5.6-terra,1,3,unregistered
+beppu,宿泊,別府ステーションホテル,openai,gpt-5.6-terra,2,3,registered
+beppu,観光,地獄温泉ミュージアム,openai,gpt-5.6-terra,1,3,unregistered
+beppu,宿泊,岡本屋旅館,openai,gpt-5.6-terra,2,3,registered
+beppu,グルメ,油屋熊八亭,openai,gpt-5.6-terra,1,3,unregistered
+beppu,グルメ,異風堂々 別府店,openai,gpt-5.6-terra,1,3,unregistered
+beppu,宿泊,BEPPU ROJIURA（別府ゲストハウス路地裏,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,Cafe雲の峰,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,YOUMECA別府店,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,cocolate別府店,openai,gpt-5.6-terra,1,2,unregistered
+beppu,観光,みょうばん湯の里,openai,gpt-5.6-terra,1,2,registered
+beppu,宿泊,ホテルニューツルタ,openai,gpt-5.6-terra,1,2,registered
+beppu,宿泊,ホテル山水館,openai,gpt-5.6-terra,2,2,registered
+beppu,グルメ,丸栄鮮魚,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,九丁目の八ちょう目,openai,gpt-5.6-terra,1,2,unregistered
+beppu,エリア,亀川温泉,openai,gpt-5.6-terra,2,2,registered
+beppu,宿泊,二彩乃湯宿 アサヒヤ,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,元町バル,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,別府みなと市場,openai,gpt-5.6-terra,1,2,unregistered
+beppu,観光,別府タワー,openai,gpt-5.6-terra,1,2,registered
+beppu,観光,別府市竹細工伝統産業会館,openai,gpt-5.6-terra,1,2,unregistered
+beppu,観光,別府海浜砂湯,openai,gpt-5.6-terra,1,2,registered
+beppu,宿泊,別府温泉旅館 豊山荘,openai,gpt-5.6-terra,2,2,unregistered
+beppu,グルメ,別府炭旬,openai,gpt-5.6-terra,1,2,unregistered
+beppu,宿泊,割烹旅館 かんな和 別邸,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,大陸ラーメン,openai,gpt-5.6-terra,1,2,registered
+beppu,グルメ,海鮮居酒屋 海山,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,海鮮料理 さかなや道場 別府駅東口店,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,焼とり 凡 母家,openai,gpt-5.6-terra,1,2,unregistered
+beppu,宿泊,竹と椿のお宿 花べっぷ,openai,gpt-5.6-terra,1,2,registered
+beppu,宿泊,豊山荘,openai,gpt-5.6-terra,1,2,unregistered
+beppu,グルメ,郷土料理居酒屋 こいのぼり,openai,gpt-5.6-terra,1,2,unregistered
+beppu,宿泊,ISHINOYA 別府,openai,gpt-5.6-terra,1,1,registered
+beppu,グルメ,そむり,openai,gpt-5.6-terra,1,1,registered
+beppu,宿泊,スーパーホテル別府駅前,openai,gpt-5.6-terra,1,1,registered
+beppu,宿泊,別府 おぐら,openai,gpt-5.6-terra,1,1,unregistered
+beppu,宿泊,別府ホテルエール,openai,gpt-5.6-terra,1,1,unregistered
+beppu,グルメ,別府炭焼亭 ちはら,openai,gpt-5.6-terra,1,1,unregistered
+beppu,グルメ,大分Kitchen HAL,openai,gpt-5.6-terra,1,1,unregistered
+beppu,グルメ,季節の色 shuhari,openai,gpt-5.6-terra,1,1,unregistered
+beppu,グルメ,居酒屋 GENKI,openai,gpt-5.6-terra,1,1,unregistered
+beppu,グルメ,焼肉 円円,openai,gpt-5.6-terra,1,1,unregistered
+beppu,グルメ,甘味茶屋,openai,gpt-5.6-terra,1,1,registered
+beppu,エリア,鉄輪温泉,xai,grok-4.5,25,49,registered
+beppu,観光,別府地獄めぐり,xai,grok-4.5,15,33,registered
+beppu,エリア,別府温泉(市街地),xai,grok-4.5,13,30,registered
+beppu,宿泊,杉乃井ホテル,xai,grok-4.5,7,25,registered
+beppu,宿泊,AMANE RESORT SEIKAI,xai,grok-4.5,7,14,registered
+beppu,グルメ,とよ常,xai,grok-4.5,6,14,registered
+beppu,グルメ,地獄蒸し工房 鉄輪,xai,grok-4.5,7,13,registered
+beppu,観光,海地獄,xai,grok-4.5,7,12,registered
+beppu,宿泊,神和苑,xai,grok-4.5,6,12,registered
+beppu,観光,血の池地獄,xai,grok-4.5,7,12,registered
+beppu,観光,大分マリーンパレス水族館 うみたまご,xai,grok-4.5,4,11,registered
+beppu,グルメ,東洋軒,xai,grok-4.5,5,10,registered
+beppu,エリア,観海寺温泉,xai,grok-4.5,5,10,registered
+beppu,宿泊,スーパーホテル別府駅前,xai,grok-4.5,4,9,registered
+beppu,宿泊,岡本屋旅館,xai,grok-4.5,4,9,registered
+beppu,宿泊,べっぷ好楽,xai,grok-4.5,3,8,unregistered
+beppu,観光,龍巻地獄,xai,grok-4.5,6,8,registered
+beppu,宿泊,別府八湯 御宿 野乃別府,xai,grok-4.5,3,7,registered
+beppu,観光,城島高原パーク,xai,grok-4.5,3,7,registered
+beppu,グルメ,海鮮いづつ,xai,grok-4.5,5,7,registered
+beppu,観光,白池地獄,xai,grok-4.5,5,7,registered
+beppu,観光,かまど地獄,xai,grok-4.5,4,6,registered
+beppu,観光,ひょうたん温泉,xai,grok-4.5,3,6,registered
+beppu,宿泊,ホテル白菊,xai,grok-4.5,4,6,registered
+beppu,宿泊,別府ステーションホテル,xai,grok-4.5,2,6,registered
+beppu,観光,竹瓦温泉,xai,grok-4.5,3,6,registered
+beppu,観光,鬼山地獄,xai,grok-4.5,4,6,registered
+beppu,観光,別府ロープウェイ,xai,grok-4.5,3,5,registered
+beppu,宿泊,悠彩の宿 望海,xai,grok-4.5,3,5,registered
+beppu,観光,鬼石坊主地獄,xai,grok-4.5,4,5,registered
+beppu,グルメ,そむり,xai,grok-4.5,2,4,registered
+beppu,観光,みょうばん湯の里,xai,grok-4.5,2,4,registered
+beppu,宿泊,アマネク別府ゆらり,xai,grok-4.5,2,4,registered
+beppu,観光,別府タワー,xai,grok-4.5,2,4,registered
+beppu,宿泊,別府駅前 ホテルシーウェーブ別府,xai,grok-4.5,3,4,registered
+beppu,エリア,明礬温泉,xai,grok-4.5,2,4,registered
+beppu,観光,湯けむり展望台,xai,grok-4.5,2,4,registered
+beppu,グルメ,チョロ松,xai,grok-4.5,2,3,unregistered
+beppu,宿泊,亀の井ホテル 別府,xai,grok-4.5,2,3,registered
+beppu,グルメ,六盛,xai,grok-4.5,1,3,registered
+beppu,グルメ,生一本本店,xai,grok-4.5,1,3,unregistered
+beppu,グルメ,荘園小町,xai,grok-4.5,1,3,unregistered
+beppu,宿泊,AMANE RESORT GAHAMA,xai,grok-4.5,2,2,registered
+beppu,宿泊,ANAインターコンチネンタル別府リゾート&スパ,xai,grok-4.5,1,2,registered
+beppu,グルメ,YOUMECA別府店,xai,grok-4.5,1,2,unregistered
+beppu,グルメ,cocolate,xai,grok-4.5,1,2,unregistered
+beppu,宿泊,おにやまホテル,xai,grok-4.5,1,2,registered
+beppu,グルメ,さかなや道場 別府東口店,xai,grok-4.5,1,2,unregistered
+beppu,宿泊,アパホテル〈別府駅前,xai,grok-4.5,1,2,unregistered
+beppu,宿泊,グランドメルキュール別府湾リゾート＆スパ,xai,grok-4.5,1,2,registered
+beppu,宿泊,スーパーホテル 別府駅前,xai,grok-4.5,1,2,unregistered
+beppu,宿泊,ホテルアーサー KITAHAMA BASE,xai,grok-4.5,2,2,registered
+beppu,観光,別府市竹細工伝統産業会館,xai,grok-4.5,1,2,unregistered
+beppu,観光,別府海浜砂湯,xai,grok-4.5,1,2,registered
+beppu,観光,地獄温泉ミュージアム,xai,grok-4.5,1,2,unregistered
+beppu,エリア,浜脇温泉,xai,grok-4.5,1,2,registered
+beppu,グルメ,燈月,xai,grok-4.5,1,2,registered
+beppu,グルメ,胡月,xai,grok-4.5,1,2,registered
+beppu,宿泊,野上本館,xai,grok-4.5,1,2,registered
+beppu,観光,鉄輪むし湯,xai,grok-4.5,1,2,registered
+beppu,宿泊,J-Hoppers Beppu Guesthouse,xai,grok-4.5,1,1,unregistered
+beppu,出典,ぎょうざ 湖月,xai,grok-4.5,1,1,unregistered
+beppu,宿泊,アマネク 別府ゆらり,xai,grok-4.5,1,1,unregistered
+beppu,エリア,亀川温泉,xai,grok-4.5,1,1,registered
+beppu,グルメ,亀正くるくる寿司,xai,grok-4.5,1,1,registered
+beppu,グルメ,焼肉 円円,xai,grok-4.5,1,1,unregistered
